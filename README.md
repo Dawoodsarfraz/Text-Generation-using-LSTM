@@ -1,4 +1,4 @@
-# Word-Level Text Generation using LSTM
+# Text Generation using LSTM
 
 **Tech Stack:** Python, NumPy, Pandas, TensorFlow/Keras  
 **GitHub URL:** [Project Link](#)
